@@ -1,0 +1,5 @@
+islemlerde bir satira C ve iki adet sayi yazilirsa caprazlama komutu bu iki satir arasinda gerceklestirilir.
+M ve iki sayi yazilirsa mutasyon ilk sayiyi satir no ve ikinci sayiyi sira no olarak alir ve mutasyon yapar.
+yalnizca E yazilirsa Ekrana yazma islemi gerceklesir. 
+yalnizca S yazilirsa cikis yapilir yani tum dugumler silinir.
+kontrol etmek için kromozomYazdir() fonksiyonunu kullanabilirsiniz. (liste->kromozomYazdir();)
